@@ -5,7 +5,7 @@
 
 Given a string, remove all spaces from the string, insert two spaces between every character, convert all alphabetical letters to uppercase, and return the result.
 
-Non-alphabetical characters should remain unchanged (except for spaces).
+Non-alphabetical characters should remain unchanged (except for spaces).<br>
  `space_jam("freeCodeCamp")`  should return  `"F R E E C O D E C A M P"`<br>
  `space_jam(" free Code Camp ")`  should return  `"F R E E C O D E C A M P"`.<br>
  `space_jam("Hello World?!")`  should return  `"H E L L O W O R L D ? !"`.<br>
