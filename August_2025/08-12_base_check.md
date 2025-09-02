@@ -33,8 +33,6 @@ base = string.digits + string.ascii_lowercase
 
 All I had to do was check that each char in n was in the list of base. I decided to use the `all()` function as it returns True if all the iterations was true.
 
-We then compare vowel counts in `left` vs `right`.
-
 ## Solution (Python)
 ```python
 import string
