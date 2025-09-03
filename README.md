@@ -1,4 +1,4 @@
-# FreeCodeCamp — Daily Challenge Solutions
+# FreeCodeCamp - Daily Challenge Solutions
 
 Welcome! I post one FreeCodeCamp challenge solution **every day**.
 
