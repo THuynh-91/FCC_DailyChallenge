@@ -27,7 +27,7 @@ Super easy problem, just subtract tank size by current size and multiply it by t
 
 ## Solution (Python)
 ```python
-	def cost_to_fill(tank_size, fuel_level, price_per_gallon):
+def cost_to_fill(tank_size, fuel_level, price_per_gallon):
 	fuel = tank_size - fuel_level
 	result = fuel * price_per_gallon
 	return f'${result:.2f}'
