@@ -12,7 +12,7 @@ Given a sentence string, return the longest word in the sentence.
 -   Return the word as it appears in the given string, with punctuation removed.
 
 ## My Thoughts
-I just had to remove the symbols and keep the spacing then just returned the max lenth word in the list.
+I just had to remove the symbols and keep the spacing then just returned the max length word in the list.
 
 ## Solution (Python)
 ```python
