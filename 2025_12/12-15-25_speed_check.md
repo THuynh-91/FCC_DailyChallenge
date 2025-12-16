@@ -4,8 +4,6 @@
 # Speed Check
 ## Prompt
 
-# Speed Check
-
 Given the speed you are traveling in miles per hour (MPH), and a speed limit in kilometers per hour (KPH), determine whether you are speeding and if you will get a warning or a ticket.
 
 -   1 mile equals 1.60934 kilometers.
