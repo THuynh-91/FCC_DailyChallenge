@@ -25,4 +25,5 @@ def string_sum(s):
 			total += current
 			current = 0
 
-	return total + current```
+	return total + current
+```
