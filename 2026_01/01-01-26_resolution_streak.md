@@ -35,4 +35,4 @@ def resolution_streak(days):
 			return f"Resolution failed on day {i + 1}: {streak} day streak."
 
 	return f"Resolution on track: {streak} day streak."
-	```
+```
