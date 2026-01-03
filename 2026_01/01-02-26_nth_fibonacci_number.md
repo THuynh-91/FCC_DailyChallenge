@@ -1,11 +1,5 @@
 
 
-
-
-# Nth Fibonacci Number
-## Prompt
-
-
 # Nth Fibonacci Number
 
 Given an integer  `n`, return the  `n`th number in the fibonacci sequence.
