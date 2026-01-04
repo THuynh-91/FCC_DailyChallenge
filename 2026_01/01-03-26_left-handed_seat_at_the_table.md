@@ -26,6 +26,11 @@ For example, in the given matrix:
 
 The top-left seat is cannot be sat in because there's a right-handed person to the left. The other two open seats can be sat in because there isn't a right-handed person to the left.
 
+## My Thoughts
+(Seemed to have left this out, or overwritten this in the initial commit)
+
+I scanned the matrix for `"U"` (unoccupied seat. We then check for the immediate left of that position. The immediate left depended on which row from the orientation. From our POV, the first row, the immediate left is actually the right index, and in the second row, the immediate left is from the left as we perceive it. We then checked that the immediate left isn't marked with a `"R"` as this would cause conflict in the case. We also checked that if there is no immediate left (corners of the table or the edge), the seat is far game.
+
 ## Solution (Python)
 ```python
 def find_left_handed_seats(table):
